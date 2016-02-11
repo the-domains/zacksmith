@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Zack Smith
 opengraph:
   image: null
   type: null
@@ -18,23 +16,25 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.3476703
+purpose: []
 color:
-  saturation: 0.6523297
+  saturation: 0.5143369
   brandStrength: 0.5563407035078853
-  rhythmicContrast: 0.3261649
+  lightness: 0.5071685
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  lightness: 1
-purpose: []
+  rhythmicContrast: 0.5089605
+typography_spectrum: 0.874552
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: Zack Smith
-typography_spectrum: 0.874552
+layout_spectrum: 0.3476703
+analytics:
+  twitter: null
+  google: null
+  facebook: null
